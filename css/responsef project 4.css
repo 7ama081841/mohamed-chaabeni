@@ -1,0 +1,392 @@
+
+
+@media (max-width: 2030px) {
+    body{
+        overflow-x: hidden;
+    }
+
+    ul {
+        display: none;
+        
+    }header .logo {
+        width: 500px;
+    }
+
+    nav {
+        width: 0px !important;
+    } 
+ 
+
+    .fa-bars {
+        display: inline-block !important;
+        cursor: pointer;
+        margin: 10px 0px 0px  0px !important;
+    }
+
+    ul {
+        width: 500px;
+        background: #fff;
+        color: black;
+        position: relative;
+        height: 620px;
+        padding-top: .1px ;
+        right: 400px !important;
+        float: none !important;
+        box-shadow : 0px 0px 5px black
+    }
+
+    ul li {
+        display: block !important;
+        margin-left: 0px;
+        width: 100% !important;
+    }
+
+    ul li a {
+        color : black !important;
+        display: block;
+    }
+
+    .block {
+        display: block;
+    } 
+
+    .port{
+        width: 22.333%;
+    }
+}
+
+@media( min-width : 1177px) {
+    .cec-2 {
+        width: 447px !important;
+    }
+}
+
+@media (max-width : 1770px) {
+    .icon-child {
+        float: left;
+    }
+
+    .heeader-2 .clear {
+        display: none;
+    }
+
+    .section-header .continer {
+        margin: auto;
+    }
+    
+    .port {
+        width: 22.333%;
+    }
+
+    .icon-child {
+        float: revert;
+    } 
+
+    .cec-2 {
+        width: 435px !important;
+    }
+}
+
+@media (max-width : 1761px) {
+    .icon {
+        margin-left: 125px;
+    }
+
+    .cec-2 {
+        width: 403px !important;
+        float: left !important;
+        margin: 6px;
+    }
+
+    .section-header.heeader-2 .icon {
+        margin-left: 125px !important;
+        /* margin: 0px auto; */
+    }
+
+    footer .icon {
+        margin: 0px;
+    }
+}
+
+@media (max-width : 1759px) {
+    .cec-2 {
+        width: 398px !important;
+        float: left !important;
+        margin: 6px;
+    }
+}
+
+@media (max-width : 1735px) {
+    .cec-2 {
+        width: 405px !important;
+    }
+
+    .section-header.heeader-2 { 
+        /* margin-left: 181px !important; */
+        margin: 0px auto;
+    }
+}
+
+@media (max-width : 1624px) {
+    .port {
+        width: 27.333%;
+    }
+}
+
+@media (min-width : 1611px) and (max-width : 1760px) {
+
+    header.heeader-2 .icon {
+        /* margin-left: 59px !important; */
+        margin: 0px auto;
+    }
+}
+
+@media ( max-width : 1525px) {
+    .home-content {
+        width:1200px ;
+    }
+
+    nav {
+        width: 0px !important;
+    }
+}
+
+@media (max-width : 1520px) {
+    .recents {
+        width: 31.333%;
+        margin: 10px;
+}
+
+@media (max-width : 1365px) {
+    .port {
+        width: 45.333%;
+    }
+
+    .clear {
+        display: none !important;
+    }
+}
+
+@media (max-width : 1390px) and (min-width : 1006px ) {
+    .cec-2 {
+        width: 362px !important;
+    }
+}
+
+@media (max-width : 1379px ) {
+    .cup-client .cup {
+        width: 50%;
+    }
+
+    .cup-client{
+        height: 685px ;
+    }
+}
+
+@media (max-width : 1370px ) {
+    .section-header.get-in-touch input {
+        margin: 18px 0px;
+    }
+    .section-header.get-in-touch input:nth-of-type(3) {
+        margin-top : 0px ;
+    }
+
+    .section-header.get-in-touch input:nth-of-type(1) {
+        margin-right : 6px ;
+    }
+
+        }
+
+@media (max-width : 1322px) {
+    .john-info {
+        float: none !important;
+        display: block !important;
+        margin: 10px auto !important;
+    }
+
+    .john-doe {
+        padding : 10px 0px ;
+        height: 643px;
+    }
+}
+
+@media (max-width : 1273px) {
+    .clear {
+        display: none !important;
+    }
+}
+
+@media (max-width : 1266px) {
+    .port {
+        width: 45.333%;
+    }
+
+    .clear {
+        display: none !important;
+    }
+
+    .team {
+        width: 32.333%;
+        margin: 10px;
+    } 
+}
+
+@media ( max-width : 1200px) {
+    .home-content {
+        width:1000px ;
+    }
+
+    .home h1 {
+        font-size: 69px !important;
+    }
+
+    nav {
+        width: 0px !important;
+    }
+
+    .port {
+        width: 44.333%;
+    }
+
+    .table {
+        width: 34.333% !important;
+        margin: 10px !important ;
+    }
+
+    .team {
+        width: 32.333%;
+        margin: 10px;
+    } 
+}
+
+@media (max-width : 1140px) {
+    .john-doe {
+        height: 800px !important;
+    }
+}
+
+@media (max-width :1150px ) {
+    .section-header.get-in-touch input {
+        margin-bottom: 11px;
+        display: block;
+        width: 100%;
+    }
+    
+    .section-header.get-in-touch input:nth-of-type(2) {
+        margin-top: 0px ;
+    }
+
+    .message {
+        position: relative;
+        right: 50px;
+    }
+}
+
+@media (max-width :1090px ) {
+    .section-header.portfolio.text-left .float-left {
+        float: none;
+        margin: 0px auto;
+        width: 60%;
+        margin-bottom: 10px !important;
+    }
+
+    .section-header.portfolio.text-left p {
+        text-align : center
+    }
+
+    .recents {
+        width: 44.333%;
+        margin: 10px auto !important;
+        display: block;
+    }
+
+  
+}
+
+@media (max-width : 1090px) {
+    .message {
+       width: 90%;
+        right: 0px;
+    }
+}
+
+@media ( max-width : 1000px) {
+    .home-content {
+        width:749px ;
+    }
+
+    .home h1 {
+        font-size: 54px !important ;
+    }
+
+    nav {
+        width: 0px !important;
+    }
+
+    .port {
+        width:59.333%;
+        height: 354px;
+        float: none;
+    }
+    
+    .clear {
+        display: none;
+    }
+
+    .continer {
+        width: 100%;
+    }
+
+    header .fa-bars {
+        right: 77px;
+    }
+
+    }
+
+@media (min-width : 970px) and (max-width : 1735px) {
+    .cec-2 {
+        width: 440px  !important;
+        margin: 10px;
+    }
+}
+
+@media (max-width : 900px) {
+    .top {
+        bottom: 80px ;
+    }
+    }
+}
+
+@media (min-width : 0px) and (max-width : 750px) {
+    .fa-bars {
+        position : absolute;
+        top: 37px;
+    }
+
+    .home-content {
+        width:619px ;
+    }
+
+    .home h1 {
+        font-size: 44px !important ;
+    }
+
+    nav {
+        width: 0px !important;
+    }
+
+    ul {
+        top:  65px;
+    }
+
+    .table {
+        display: block; 
+        margin: 10px auto !important;
+    }
+
+    .team {
+        width: 42.333%;
+        display: block;
+        margin: 10px auto !important;
+    }
+} 
