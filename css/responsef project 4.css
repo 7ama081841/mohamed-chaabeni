@@ -391,7 +391,7 @@
     }
 } 
 
-@media (min-width : 0px) and (max-width : 150px){
+@media (min-width : 0px) and (max-width : 250px){
     #home {
         width: 500px ;
     }
