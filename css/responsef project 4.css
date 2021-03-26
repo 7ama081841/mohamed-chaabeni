@@ -390,3 +390,9 @@
         margin: 10px auto !important;
     }
 } 
+
+@media (min-width : 0px) and (max-width : 150px){
+    #home {
+        width: 100%;
+    }
+}
