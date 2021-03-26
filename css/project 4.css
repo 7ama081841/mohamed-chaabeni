@@ -575,6 +575,7 @@ header nav > ul > li > a:hover:after{
     background-size: cover;
     background-position: center;
     background-attachment:fixed ;
+    width : 100% ;
 }
 .home-content{
     width : 1500px;
