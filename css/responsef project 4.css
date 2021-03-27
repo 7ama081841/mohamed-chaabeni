@@ -392,7 +392,7 @@
 
     .icon-child {
         margin-right: 106px !important;
-        float: revert !important;
+        float: revert ;
     }
 } 
 
