@@ -389,6 +389,11 @@
         display: block;
         margin: 10px auto !important;
     }
+
+    .icon-child {
+        margin-right: 106px !important;
+        float: revert !important;
+    }
 } 
 
 @media (min-width : 0px) and (max-width : 500px){
