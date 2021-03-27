@@ -393,9 +393,7 @@
 
 @media (min-width : 0px) and (max-width : 500px){
     #home , .section-header {
-        width: 100% ;
+        width: 800px ;
     }
-    body {
-        width: 100%;
-    }
+  
 }
