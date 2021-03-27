@@ -396,4 +396,7 @@
         width: 800px !important ;  
     }
   
+    .icon-child {
+        margin: 0px auto;
+    }
 }
