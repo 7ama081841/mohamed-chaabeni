@@ -393,7 +393,7 @@
 
 @media (min-width : 0px) and (max-width : 500px){
     #home , .section-header , .cup-client , .john-doe , .section-header.our-team , footer {
-        width: 800px ;
+        width: 800px im !important ;  
     }
   
 }
