@@ -398,5 +398,6 @@
   
     .icon-child {
         margin-right: 145px !important;
+        float: none !important;
     }
 }
