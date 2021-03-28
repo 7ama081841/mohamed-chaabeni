@@ -75,5 +75,5 @@ window.onresize = function() {
     
 }
 
-console.log("oumourek weth7a")
+
   
